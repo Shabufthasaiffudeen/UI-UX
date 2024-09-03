@@ -1,0 +1,86 @@
+<div className="Iphone14Plus1" style={{width: 428, height: 926, position: 'relative', background: 'white'}}>
+  <div className="Rectangle1" style={{width: 428, height: 120, left: 0, top: 0, position: 'absolute', background: 'white'}} />
+  <div className="Heart" style={{width: 35, height: 35, paddingTop: 4.37, paddingBottom: 4.04, paddingLeft: 2.26, paddingRight: 2.26, left: 334, top: 67, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 30.48, height: 26.59, border: '2.50px #1E1E1E solid'}}></div>
+  </div>
+  <img className="Image1" style={{width: 30, height: 30, left: 385, top: 71, position: 'absolute'}} src="https://via.placeholder.com/30x30" />
+  <img className="Image" style={{width: 20, height: 20, left: 204, top: 894, position: 'absolute'}} src="https://via.placeholder.com/20x20" />
+  <img className="Image2" style={{width: 20, height: 20, left: 361, top: 894, position: 'absolute'}} src="https://via.placeholder.com/20x20" />
+  <img className="Image3" style={{width: 20, height: 20, left: 33, top: 894, position: 'absolute'}} src="https://via.placeholder.com/20x20" />
+  <div className="Frame1" style={{width: 429, height: 60, left: 0, top: 822, position: 'absolute', background: 'white', border: '1px white solid'}}>
+    <img className="Ellipse1" style={{width: 40, height: 40, left: 370, top: 10, position: 'absolute', background: 'linear-gradient(0deg, rgba(217, 217, 217, 0) 0%, rgba(217, 217, 217, 0) 100%)', borderRadius: 9999}} src="https://via.placeholder.com/40x40" />
+    <img className="Image" style={{width: 30, height: 30, left: 198, top: 15, position: 'absolute'}} src="https://via.placeholder.com/30x30" />
+    <img className="Image4" style={{width: 40, height: 40, left: 283, top: 10, position: 'absolute'}} src="https://via.placeholder.com/40x40" />
+    <img className="Image5" style={{width: 30, height: 30, left: 19, top: 15, position: 'absolute', border: '1px white solid'}} src="https://via.placeholder.com/30x30" />
+    <img className="Image6" style={{width: 30, height: 30, left: 109, top: 15, position: 'absolute'}} src="https://via.placeholder.com/30x30" />
+  </div>
+  <div className="YourStory" style={{left: 6, top: 206, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Irish Grover', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>Your story</div>
+  <div className="Line2" style={{width: 428, height: 0, left: 0, top: 238, position: 'absolute', border: '1px rgba(0, 0, 0, 0.03) solid'}}></div>
+  <div className="Line1" style={{width: 428, height: 0, left: -0, top: 238, position: 'absolute', border: '1px #EBEDF0 solid'}}></div>
+  <div className="StatusBarIphone" style={{width: 510, height: 42, left: -45, top: -3, position: 'absolute', background: 'white', justifyContent: 'center', alignItems: 'flex-start', gap: 145.34, display: 'inline-flex'}}>
+    <div className="Time" style={{height: 54, paddingTop: 18.34, paddingBottom: 13.66, paddingLeft: 54.96, paddingRight: 88.20, justifyContent: 'flex-start', alignItems: 'center', display: 'inline-flex'}}>
+      <div className="Time" style={{textAlign: 'center', color: 'black', fontSize: 17, fontFamily: 'SF Pro', fontWeight: '590', lineHeight: 22, wordWrap: 'break-word'}}>9:41</div>
+    </div>
+    <div className="Levels" style={{width: 182.33, paddingTop: 23, paddingBottom: 18, paddingLeft: 51, paddingRight: 53, justifyContent: 'center', alignItems: 'flex-start', gap: 7.50, display: 'inline-flex'}}>
+      <div className="CellularConnection" style={{width: 19.20, height: 12.23, background: 'black'}}></div>
+      <div className="Wifi" style={{width: 17.14, height: 12.33, background: 'black'}}></div>
+      <div className="Battery" style={{width: 27.33, height: 13, position: 'relative'}}>
+        <div className="Border" style={{width: 25, height: 13, left: 0, top: 0, position: 'absolute', opacity: 0.35, borderRadius: 4.30, border: '1px black solid'}} />
+        <div className="Cap" style={{width: 1.33, height: 4.08, left: 26, top: 4.78, position: 'absolute', opacity: 0.40, background: 'black'}}></div>
+        <div className="Capacity" style={{width: 21, height: 9, left: 2, top: 2, position: 'absolute', background: 'black', borderRadius: 2.50}} />
+      </div>
+    </div>
+  </div>
+  <img className="InstagramLogo" style={{width: 182, height: 49, left: 11, top: 67, position: 'absolute'}} src="https://via.placeholder.com/182x49" />
+  <div className="Vector" style={{width: 11, height: 21, left: 202, top: 95, position: 'absolute', transform: 'rotate(-90deg)', transformOrigin: '0 0', background: 'black'}}></div>
+  <img className="Ellipse5" style={{width: 70, height: 70, left: 8, top: 133, position: 'absolute', background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999, border: '3px #FF0A0E solid'}} src="https://via.placeholder.com/70x70" />
+  <div className="Ellipse13" style={{width: 29, height: 25, left: 50, top: 181, position: 'absolute', background: '#6BB9FD', borderRadius: 9999}} />
+  <div className="Add" style={{width: 36.53, height: 23, paddingLeft: 7.61, paddingRight: 7.61, paddingTop: 4.79, paddingBottom: 4.79, left: 46, top: 183, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 21.31, height: 13.42, background: 'white'}}></div>
+  </div>
+  <div className="Frame4" style={{left: 102, top: 122, position: 'absolute', justifyContent: 'flex-end', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Frame3" style={{width: 682, height: 111, position: 'relative', background: 'white', flexDirection: 'column', justifyContent: 'flex-start', alignItems: 'flex-start', display: 'flex'}}>
+      <img className="Ellipse7" style={{width: 70, height: 70, background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999, border: '3px #FF0A0E solid'}} src="https://via.placeholder.com/70x70" />
+      <img className="Ellipse6" style={{width: 70, height: 70, background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999, border: '3px #FF0A0E solid'}} src="https://via.placeholder.com/70x70" />
+      <img className="Ellipse8" style={{width: 70, height: 70, background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999, border: '3px #FF0A0E solid'}} src="https://via.placeholder.com/70x70" />
+      <img className="Ellipse11" style={{width: 70, height: 70, background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999, border: '3px #FF2424 solid'}} src="https://via.placeholder.com/70x70" />
+      <img className="Ellipse10" style={{width: 70, height: 70, background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999, border: '3px #FF2424 solid'}} src="https://via.placeholder.com/70x70" />
+      <img className="Ellipse12" style={{width: 70, height: 70, background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999, border: '3px #FF2424 solid'}} src="https://via.placeholder.com/70x70" />
+      <img className="Ellipse10" style={{width: 70, height: 70, background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999, border: '3px #FF2424 solid'}} src="https://via.placeholder.com/70x70" />
+      <div className="KavizzIcon" style={{textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Irish Grover', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>kavizz_icon</div>
+      <div className="ItzzStuart" style={{textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Irish Grover', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>itzz_stuart</div>
+      <div className="FoodVlogs" style={{textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Irish Grover', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>food_vlogs</div>
+      <div className="PythonWorld" style={{textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Irish Grover', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>python_world</div>
+      <div className="HeyBlack" style={{textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Irish Grover', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>hey_black</div>
+      <div className="RohanX" style={{textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Irish Grover', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>rohan_x</div>
+      <div className="BlueQuee" style={{textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Irish Grover', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>blue_quee</div>
+    </div>
+  </div>
+  <img className="Ellipse2" style={{width: 55.12, height: 54.54, left: 5, top: 248, position: 'absolute', background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999, border: '3px #FF0303 solid'}} src="https://via.placeholder.com/55x55" />
+  <div className="BlackGirl" style={{width: 77.17, height: 21.81, left: 73, top: 251, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Irish Grover', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>black_girl</div>
+  <div className="Vector" style={{width: 16.88, height: 11.14, left: 71, top: 276, position: 'absolute', background: 'black'}}></div>
+  <div className="YuvanShankarRajaPaRajaVijayViayYasudas" style={{width: 348.75, height: 21.81, left: 58, top: 270, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Grenze', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>yuvan shankar raja,pa.raja, vijay,viay yasudas...</div>
+  <div className="Vector" style={{width: 3.17, height: 20.08, left: 406, top: 253, position: 'absolute', background: 'black'}}></div>
+  <div className="Frame2" style={{height: 408.53, paddingBottom: 408.45, left: 0, top: 308, position: 'absolute', backgroundImage: 'url(https://via.placeholder.com/429x409)', justifyContent: 'flex-end', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Line3" style={{width: 435, height: 0, border: '1px #1E1E1E solid'}}></div>
+  </div>
+  <div className="6k" style={{width: 41.09, height: 21.81, left: 38, top: 728, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Grandstander', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>70.6k</div>
+  <div className="Heart" style={{width: 29.06, height: 28.76, paddingTop: 3.59, paddingBottom: 3.32, paddingLeft: 1.88, paddingRight: 1.87, left: 4, top: 724, position: 'absolute', background: 'white', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Icon" style={{width: 25.31, height: 21.84, border: '2.50px black solid'}}></div>
+  </div>
+  <div className="Vector" style={{width: 24.31, height: 23.09, left: 88, top: 726, position: 'absolute', border: '2px black solid'}}></div>
+  <div className="888" style={{width: 80.17, height: 14.87, left: 109, top: 728, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Grandstander', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>88,888<br/></div>
+  <div className="Send" style={{width: 24.05, height: 23.80, left: 180, top: 728, position: 'absolute'}}>
+    <div className="Vector" style={{width: 11.02, height: 10.91, left: 11.02, top: 1.98, position: 'absolute', border: '2px black solid'}}></div>
+    <div className="Vector" style={{width: 20.04, height: 19.83, left: 2, top: 1.98, position: 'absolute', border: '2px black solid'}}></div>
+  </div>
+  <div className="Bookmark" style={{width: 28.06, height: 29.75, paddingLeft: 5.85, paddingRight: 5.85, paddingTop: 3.72, paddingBottom: 3.72, left: 396, top: 722, position: 'absolute', flexDirection: 'column', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
+    <div className="Vector" style={{width: 16.37, height: 22.31, border: '2px black solid'}}></div>
+  </div>
+  <div className="BlackGirl" style={{width: 77.17, height: 21.81, left: 7, top: 750, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Irish Grover', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>black_girl</div>
+  <div className="Hey" style={{width: 40.09, height: 21.81, left: 99, top: 750, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 16, fontFamily: 'Inconsolata', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>hey!!</div>
+  <div className="ViewAllComments" style={{width: 234.51, height: 22.81, left: -33, top: 770, position: 'absolute', textAlign: 'center', color: '#A0A2A5', fontSize: 16, fontFamily: 'Grandstander', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>view all comments<br/></div>
+  <img className="Ellipse4" style={{width: 28.06, height: 26.77, left: 3, top: 790, position: 'absolute', background: 'linear-gradient(0deg, #D9D9D9 0%, #D9D9D9 100%)', borderRadius: 9999}} src="https://via.placeholder.com/28x27" />
+  <div className="AddAComment" style={{width: 139.30, height: 21.81, left: 41, top: 792, position: 'absolute', textAlign: 'center', color: 'rgba(178.70, 175.57, 175.57, 0.99)', fontSize: 16, fontFamily: 'Grandstander', fontWeight: '400', lineHeight: 22, wordWrap: 'break-word'}}>add a comment...</div>
+  <div className="Line4" style={{width: 429, height: 0, left: 0, top: 822, position: 'absolute', border: '1px #EBEDF0 solid'}}></div>
+</div>
